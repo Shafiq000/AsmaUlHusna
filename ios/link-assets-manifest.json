@@ -1,0 +1,77 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Gilroy-Light.otf",
+      "sha1": "78410fd9e800f48e3ffa140497ba2d65ac169d22"
+    },
+    {
+      "path": "assets/fonts/Inter-Regular.ttf",
+      "sha1": "7237d9cf55f177702066a28a4dde1e4c7e8ab576"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "de57aa03e4821fdbe6c34ec2c895e8b5c914e837"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Bold.ttf",
+      "sha1": "c1691e8168b2596af8a00162bac60dbe605e9e36"
+    },
+    {
+      "path": "assets/fonts/OpenSans-BoldItalic.ttf",
+      "sha1": "cea7b25e625f8f42d09c3034aad8afd826e9941a"
+    },
+    {
+      "path": "assets/fonts/OpenSans-ExtraBold.ttf",
+      "sha1": "97d0bd44f1731a9d97fc29e2b2208835575b60b9"
+    },
+    {
+      "path": "assets/fonts/OpenSans-ExtraBoldItalic.ttf",
+      "sha1": "1d865d0a3e05f13ce91e3727e0cb97fdc1c4ca42"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Italic.ttf",
+      "sha1": "f1692eac564e95023e4da341a1b89baae7a65155"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Light.ttf",
+      "sha1": "40442c189568184b6e6c27a25d69f14d91b65039"
+    },
+    {
+      "path": "assets/fonts/OpenSans-LightItalic.ttf",
+      "sha1": "73c4730894c67900e0b7bd7a491c717d4a236b30"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Regular.ttf",
+      "sha1": "3564ed0b5363df5cf277c16e0c6bedc5a682217f"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Semibold.ttf",
+      "sha1": "f1ee7a9c6d13ee2d642a806c09e737275e613792"
+    },
+    {
+      "path": "assets/fonts/OpenSans-SemiboldItalic.ttf",
+      "sha1": "f577ce4322c761a10d093f11f077a48602d2c076"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/raleway-bold.ttf",
+      "sha1": "6412de4f79f20e8868af550efa1235ca7ac39530"
+    },
+    {
+      "path": "assets/fonts/Roboto-Medium.ttf",
+      "sha1": "01d4ccbdf1ba0a8e14497521686e1246f8dc57c4"
+    },
+    {
+      "path": "assets/fonts/Roboto-Regular.ttf",
+      "sha1": "56c5c0d38bde4c1f1549dda43db37b09c608aad3"
+    },
+    {
+      "path": "assets/fonts/Silkscreen-Regular.ttf",
+      "sha1": "7d19e39d6ae5b7677adc35f9be7eb26d87db667d"
+    }
+  ]
+}
